@@ -1,0 +1,1 @@
+The current project is about creating a simple website consisting of an index page that links to a few recipes. It will show my knowledge and skills in HTML so far, and will later be edited with my knowledge of CSS. Thanks, byeee
